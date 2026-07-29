@@ -1,5 +1,5 @@
 # Sistema Web desarrollado con React y Tailwind CSS
-Link para visitar el portal, gracias a hosting gratis de github (paciencia de 1-2 segs): [https://wizard-cloud.github.io/workspace/ ](https://wizard-cloud.github.io/LandingMarmSolutions/)
+Link para visitar el portal, gracias a hosting gratis de github (paciencia de 1-2 segs): [Aqui ](https://wizard-cloud.github.io/LandingMarmSolutions/)
 Este proyecto fue desarrollado utilizando React, Vite y Tailwind CSS para la construcción de una interfaz web moderna, responsiva y de alto rendimiento.
 
 ## Tecnologías utilizadas
