@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/workspace/", // 👈 nombre EXACTO del repo en GitHub
+  base: "/LandingMarmSolutions/", // 👈 nombre EXACTO del repo en GitHub
 });
