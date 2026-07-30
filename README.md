@@ -48,8 +48,11 @@ npm run build
 Este proyecto fue realizado con fines de aprendizaje y práctica en el desarrollo de aplicaciones web modernas, aplicando conceptos de componentes, manejo de estados, diseño responsivo y buenas prácticas de desarrollo frontend.
 
 ## Mejoras
-Al realizar mejoras es requerido usar 
-git status para ver los ficheros nuevos y verificar si se desean agregar al repositorio de otra forma colocarlos en .gitignore. Tal es el caso de la carpeta /dist generada despues del npm run bild se debe cambiar a /docs desde el IDE ya que es la carpeta que lee pages (hostig)de github para leer los archivos a publicar.
+Para realizar cambios o mejoras se puede verificar los nuevos ficheros creados con
+```bash
+git status
+```
+ y verificar si se desean agregar al repositorio de otra forma anexarlos en .gitignore. Tal es el caso de la carpeta /dist generada despues de ejecutar el proyecto con npm run bild la cual se recomienda cambiar de nombre de  /dist a /docs desde el IDE ya que es la carpeta que lee pages (hostig)de github para leer los archivos a publicar. Si es que no se actualiza el proyecto con la opcion de Github Actions
 
 ## Autor
 
