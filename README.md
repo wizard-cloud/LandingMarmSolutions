@@ -52,7 +52,7 @@ Para realizar cambios o mejoras se puede verificar los nuevos ficheros creados c
 ```bash
 git status
 ```
- y verificar si estos ficheros se desean agregar al repositorio de otra forma anexarlos en .gitignore. Tal es el caso de la carpeta /dist generada despues de ejecutar el proyecto desde npm run bild la cual se recomienda cambiar de nombre de  /dist a /docs desde el IDE ya que es la carpeta que lee pages (hostig)de github para leer los archivos a publicar. Si es que no se actualiza el proyecto con la opcion de Github Actions.
+ y verificar si estos ficheros se desean agregar al repositorio de otra forma anexarlos en .gitignore. Tal es el caso de la carpeta /dist generada despues de ejecutar el proyecto desde npm run bild la cual se recomienda cambiar de nombre de  /dist a /docs desde el IDE ya que es la carpeta que lee pages (hosting)de github para leer los archivos a publicar. Si es que no se actualiza el proyecto con la opcion de Github Actions.
 
 ## Autor
 
